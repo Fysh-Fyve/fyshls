@@ -1,3 +1,5 @@
+We have moved! [Fysh-Fyve/fysh](https://github.com/fysh-Fyve/fysh)
+
 # `fyshls`, the Fysh language server
 
 `fyshls` (pronounce "Fysh shells") is the official Fysh
